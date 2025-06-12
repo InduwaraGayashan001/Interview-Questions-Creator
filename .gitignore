@@ -1,1 +1,3 @@
 /.env
+/src/__pycache__/
+/generative_ai_llm.egg-info
